@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### :point_down: Check out some of my public work down here :point_down:
+
 <!--
 **zivsha/zivsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
